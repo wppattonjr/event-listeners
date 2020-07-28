@@ -1,4 +1,4 @@
-/* "use strict"
+ "use strict"
 
 const helloMyFriend = (friendName) => {
 
@@ -26,8 +26,8 @@ const butnPracticeAgain = document.querySelector('#main-btn');
 butnPracticeAgain.addEventListener(click, () => {
     console.log('mouse has entered!');
 });
- */
-/* function clicked() {
+ 
+/function clicked() {
     return ('You clicked me!')
 }
 console.log(clicked())
@@ -35,4 +35,4 @@ console.log(clicked())
 const div = document.querySelector('#main-btn');
 div.addEventListener(click, () => {
     console.log
-} */
+} 
